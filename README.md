@@ -45,7 +45,8 @@ CIRCUIT DIAGRAM 1:
  CIRCUIT DIAGRAM 2:
 <img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/5b28bef5-6f6d-4f16-8778-1d00eb6d46e9" />
 XOR&&XNOR
-![WhatsApp Image 2025-11-26 at 19 37 46_65856d27](https://github.com/user-attachments/assets/034286ba-342f-4885-a838-5805b2c78174)
+![WhatsApp Image 2025-11-27 at 17 46 58_33c8e33c](https://github.com/user-attachments/assets/36bda28a-720c-4913-b759-37fb37c24290)
+
 
 
 
